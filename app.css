@@ -51,15 +51,20 @@ div > ul{
   margin: 0px;
 }
 
-.answers{
+form>ul{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 18px;
   background: rgba(255, 255, 255, 0.842);
   border-radius: 10px;
   margin: 15px;
   padding: 10px;
-  list-style: none;
+  list-style-type: none;
   text-align: left;
+}
+
+.question{
+  line-height: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
