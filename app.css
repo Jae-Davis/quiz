@@ -2,7 +2,8 @@
 html{
   background-image: url('colored-mic.jpg');
   background-position: center;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
