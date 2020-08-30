@@ -47,8 +47,6 @@ div > ul{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   list-style-type: none;
-  padding: 0px;
-  margin: 0px;
 }
 
 form>ul{
@@ -56,15 +54,15 @@ form>ul{
   font-size: 15px;
   background: rgba(255, 255, 255, 0.842);
   border-radius: 10px;
-  margin: 20px;
-  padding: 20px;
+  margin: 10px;
+  padding: 10px;
   list-style-type: none;
   text-align: left;
 }
 
 .question{
   margin-bottom: 5px;
-  font-size: 15px;
+  font-size: 18px;
   font-family: inherit;
 }
 
