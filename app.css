@@ -56,11 +56,10 @@ form>ul{
   font-size: 15px;
   background: rgba(255, 255, 255, 0.842);
   border-radius: 10px;
-  margin: 15px;
-  padding: 10px;
+  margin: 20px;
+  padding: 20px;
   list-style-type: none;
   text-align: left;
-  display: table;
 }
 
 .question{
